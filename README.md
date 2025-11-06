@@ -119,7 +119,7 @@ Essas obras representam a fusão entre **arte, código e consciência**, um mani
 </p>
 
 
-🎥 Experiência em Reportagens e Entrevistas
+## 🎥 Experiência em Reportagens e Entrevistas
 
 Durante minha trajetória profissional, realizei reportagens de campo e entrevistas com personalidades e artistas em diversos eventos culturais, musicais e sociais, sempre com olhar técnico e humano.
 Esses registros documentam a interação entre jornalismo, sociedade e expressão artística, sendo parte do legado da Rádio Tatuapé FM.
