@@ -1,3 +1,69 @@
+# 📢 A Like Look Solutions anuncia novas oportunidades para profissionais de excelência!
+Acesse todas as vagas: **https://impulser.me/45ea6418**
+
+Com o propósito de impulsionar talentos e fortalecer o ecossistema tecnológico nacional, a **Like Look Solutions** apresenta um conjunto robusto de oportunidades estratégicas.  
+Essas posições são direcionadas a profissionais que buscam **desafios reais**, **evolução contínua** e atuação em **projetos de alto impacto**.
+
+Cada vaga abaixo representa não apenas uma função, mas uma possibilidade concreta de desenvolvimento profissional em equipes que valorizam competência técnica, responsabilidade e visão de futuro.
+
+---
+
+## 🔍 Vagas Disponíveis
+
+### **2630 - Pessoa Especialista em Estratégia e Relacionamento | Comunidade**  
+🔗 https://impulso.team/pt/profissionais/oportunidade/2630?referral=45ea6418
+
+### **2629 - Pessoa Desenvolvedora Backend Pleno | Golang**  
+🔗 https://impulso.team/pt/profissionais/oportunidade/2629?referral=45ea6418
+
+### **2596 - Pessoa Desenvolvedora Fullstack Pleno | Ruby on Rails**  
+🔗 https://impulso.team/pt/profissionais/oportunidade/2596?referral=45ea6418
+
+### **2595 - Pessoa Analista Pleno | FinOps**  
+🔗 https://impulso.team/pt/profissionais/oportunidade/2595?referral=45ea6418
+
+### **2592 - Pessoa Desenvolvedora Backend Sênior | Node.js | TypeScript**  
+🔗 https://impulso.team/pt/profissionais/oportunidade/2592?referral=45ea6418
+
+### **2591 - Pessoa Desenvolvedora Frontend Pleno | Angular**  
+🔗 https://impulso.team/pt/profissionais/oportunidade/2591?referral=45ea6418
+
+### **2589 - Pessoa Desenvolvedora Fullstack Sênior | Ruby on Rails**  
+🔗 https://impulso.team/pt/profissionais/oportunidade/2589?referral=45ea6418
+
+### **2588 - Pessoa Analista de Suporte a Sistemas Sênior**  
+🔗 https://impulso.team/pt/profissionais/oportunidade/2588?referral=45ea6418
+
+### **2583 - Pessoa Desenvolvedora Frontend Júnior | React**  
+🔗 https://impulso.team/pt/profissionais/oportunidade/2583?referral=45ea6418
+
+### **2582 - Pessoa Desenvolvedora Fullstack Sênior | React + Node.js**  
+🔗 https://impulso.team/pt/profissionais/oportunidade/2582?referral=45ea6418
+
+### **2578 - Pessoa Desenvolvedora Backend Pleno | Ruby on Rails**  
+🔗 https://impulso.team/pt/profissionais/oportunidade/2578?referral=45ea6418
+
+### **2576 - Pessoa Desenvolvedora Sênior Angular | C# | .NET**  
+🔗 https://impulso.team/pt/profissionais/oportunidade/2576?referral=45ea6418
+
+### **2530 - Pessoa Product Owner Sênior | Atendimento**  
+🔗 https://impulso.team/pt/profissionais/oportunidade/2530?referral=45ea6418
+
+### **2527 - Pessoa Arquiteta de Soluções**  
+🔗 https://impulso.team/pt/profissionais/oportunidade/2527?referral=45ea6418
+
+### **2525 - Pessoa Analista de Sistemas**  
+🔗 https://impulso.team/pt/profissionais/oportunidade/2525?referral=45ea6418
+
+### **2522 - Pessoa Desenvolvedora Fullstack Java | Angular**  
+🔗 https://impulso.team/pt/profissionais/oportunidade/2522?referral=45ea6418
+
+---
+
+## 🚀 Conecte-se com a inovação
+A Like Look Solutions segue dedicada a criar ambientes que valorizam o potencial humano e a excelência técnica.  
+Se você busca crescimento, impacto e desafios significativos — este é o seu momento.
+
 # 🌌 Julio Campos Machado
 
 💻 **Desenvolvedor Multidisciplinar | Especialista em Inteligência Artificial, Automação e Comunicação Digital**
