@@ -2,15 +2,9 @@
 <p align="center">
   <img src="gif.gif" alt="Demo" width="100%" height="100%"/>
 </p>
-<p align="center">
-  <img src="studios.gif" alt="Demo" width="100%" height="100%"/>
-</p>
-
 
 ## 🎯 Objetivo Profissional
 Atuar como **Desenvolvedor Full Stack / Web / Mobile**, entregando soluções completas de alta performance, desde a concepção até a implementação final.
-
-
 
 ---
 
@@ -218,6 +212,10 @@ Atuo na interseção entre **tecnologia, arte e automação cognitiva**, unindo 
 
 
 ## 🎥 Experiência em Reportagens e Entrevistas
+
+<p align="center">
+  <img src="studios.gif" alt="Demo" width="100%" height="100%"/>
+</p>
 
 Minha vivência no campo jornalístico ultrapassa o mero registro de fatos: trata-se de uma jornada dedicada à escuta, à observação e à narrativa humana em sua forma mais autêntica. Ao longo de minha trajetória, realizei reportagens de campo, coberturas especiais e entrevistas exclusivas com personalidades da música, das artes, da política e da cultura nacional, consolidando um acervo que reflete tanto a riqueza do cenário cultural brasileiro quanto o papel do comunicador como ponte entre o público e a verdade dos acontecimentos.
 
