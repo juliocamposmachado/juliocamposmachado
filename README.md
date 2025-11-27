@@ -1,5 +1,13 @@
 # 👨‍💻 **Desenvolvedor Full Stack / Web / Mobile**  
-<img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/944118dc-4dab-4ed5-bc40-8e8fb291ea04" />
+
+
+<img 
+  src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3LVurIzpCj9NbKyFFDDHpLrq5v3_vQbaoIngS00V5XfdmISi56skhTL6bIQpUyXZMGMzsl5Sqt2leXH0AHLJBeex-0ca31vgxfEhBlPgLmsZliJ3yvfm_xnUe3dGfBWSYUnHV7ceDMoUee4sfYQbtzR0z3_HclBJOCfFEU96Zl7wmFaFHndk4GOI2-N4/s320/Like-Look-Solutions-2025.gif"
+  alt="Like Look Solutions 2025"
+  width="600"
+/>
+
+
 
 ## 🎯 Objetivo Profissional
 Atuar como **Desenvolvedor Full Stack / Web / Mobile**, entregando soluções completas de alta performance, desde a concepção até a implementação final.
