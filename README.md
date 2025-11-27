@@ -2,7 +2,9 @@
 <p align="center">
   <img src="gif.gif" alt="Demo" width="100%" height="100%"/>
 </p>
-
+<p align="center">
+  <img src="studios.gif" alt="Demo" width="100%" height="100%"/>
+</p>
 
 
 ## 🎯 Objetivo Profissional
