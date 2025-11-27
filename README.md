@@ -1,11 +1,4 @@
-# 👨‍💻 Julio Cesar Campos Machado
-
-**Desenvolvedor Full Stack / Web / Mobile**  
-📍 São Paulo – SP  
-📞 (11) 99294‑6628 | (11) 97060‑3441  
-📧 juliocamposmachado@gmail.com  
-🔗 [GitHub](https://github.com/juliocamposmachado)
-
+# 👨‍💻 **Desenvolvedor Full Stack / Web / Mobile**  
 <img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/944118dc-4dab-4ed5-bc40-8e8fb291ea04" />
 
 ## 🎯 Objetivo Profissional
@@ -62,7 +55,7 @@ Mais de **20 anos em TI**, com domínio em infraestrutura, redes, servidores, ha
 ---
 
 ## 📂 Portfólio
-🔗 [GitHub – +300 projetos completos](https://github.com/juliocamposmachado)
+🔗 [GitHub – +300 projetos completos](https://github.com/juliocamposmachado?tab=repositories)
 
 ---
 
@@ -74,14 +67,7 @@ Mais de **20 anos em TI**, com domínio em infraestrutura, redes, servidores, ha
 ---
 ---
 
-# 👨‍💻 Julio Cesar Campos Machado
-
-**Desenvolvedor Python | IA | Automação | Bots**  
-📍 São Paulo – SP  
-📧 juliocamposmachado@gmail.com  
-📱 (11) 99294‑6628 | (11) 97060‑3441  
-🔗 [GitHub](https://github.com/juliocamposmachado)
-
+# 👨‍💻 **Desenvolvedor Python | IA | Automação | Bots**  
 <img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/fb7e7a50-7ec8-489c-94a6-9a42a04fcdfc" />
 
 ## 🎯 Objetivo Profissional
