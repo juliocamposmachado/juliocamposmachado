@@ -137,7 +137,7 @@ Essas posições são direcionadas a profissionais que buscam **desafios reais**
 
 Cada vaga abaixo representa não apenas uma função, mas uma possibilidade concreta de desenvolvimento profissional em equipes que valorizam competência técnica, responsabilidade e visão de futuro.
 
-<img width="746" height="497" alt="image" src="https://github.com/user-attachments/assets/ca5a2c0c-a973-4bc0-aed6-ad030e48695b" />
+<img width="100%" height="100%" alt="image" src="https://github.com/user-attachments/assets/ca5a2c0c-a973-4bc0-aed6-ad030e48695b" />
 
 ## 🔍 Vagas Disponíveis
 
