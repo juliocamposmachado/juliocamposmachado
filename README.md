@@ -77,7 +77,7 @@ Atuo na interseção entre **tecnologia, arte e automação cognitiva**, unindo 
 - Criação de **assistentes virtuais**, interfaces gráficas e sistemas de fala cognitiva.  
 - Produção de **arte digital, literatura experimental e música filosófica** com IA.  
 
-🎧 Além da tecnologia, lidero a **Rádio Tatuapé FM** (com mais de **10 milhões de ouvintes mensais**) e o universo **Juliette Psicose**, onde unifico linguagem artística, crítica social e experimentação sonora em uma estética intelectual e libertária.
+🎧 Além da tecnologia, lidero a **Rádio Tatuapé FM** (com mais de **10 milhões de ouvintes mensais**) e o universo **Juliette Psicose**, onde unifico linguagem artística, crítica social e experimentação sonora em uma estética intelectual e libertária..
 
 
 ## 🎥 Experiência em Reportagens e Entrevistas
