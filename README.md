@@ -1,3 +1,146 @@
+# 👨‍💻 Julio Cesar Campos Machado
+
+**Desenvolvedor Full Stack / Web / Mobile**  
+📍 São Paulo – SP  
+📞 (11) 99294‑6628 | (11) 97060‑3441  
+📧 juliocamposmachado@gmail.com  
+🔗 [GitHub](https://github.com/juliocamposmachado)
+
+<img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/944118dc-4dab-4ed5-bc40-8e8fb291ea04" />
+
+## 🎯 Objetivo Profissional
+Atuar como **Desenvolvedor Full Stack / Web / Mobile**, entregando soluções completas de alta performance, desde a concepção até a implementação final.
+
+---
+
+## 🧑‍💻 Resumo Profissional
+- Desenvolvedor autodidata com **+300 projetos públicos no GitHub**.  
+- Experiência em aplicações web, APIs, bots, sites profissionais, integrações, automações, módulos fiscais e aplicativos mobile.  
+- Histórico de entregas rápidas, precisas e bem estruturadas.  
+
+---
+
+## 🛠️ Competências Técnicas
+
+### Front-end
+- HTML5, CSS3, JavaScript, TypeScript, React, Tailwind, Bootstrap  
+
+### Back-end
+- Node.js, Python, Golang, Express, FastAPI  
+
+### Mobile
+- FlutterFlow (criação e publicação de apps)  
+
+### Web / CMS
+- WordPress avançado, Elementor  
+
+### APIs e Integrações
+- REST, JSON, Webhooks, JWT  
+- Integrações fiscais (NFe)  
+- Pagamentos e automações customizadas  
+
+### Infraestrutura
+- Hospedagem, deploy, segurança básica  
+- Versionamento Git  
+
+---
+
+## 🚀 Projetos de Destaque
+- Sites institucionais e landing pages  
+- Aplicativos mobile publicados via FlutterFlow  
+- Sistemas completos com autenticação, CRUDs, dashboards e integrações  
+- Plataformas para planos funerários, restaurantes, jogos online e bingo  
+- Módulos fiscais (NFe) com React e Node  
+- Integrações de APIs para fretes e pagamentos  
+- Editor CSS/JS personalizado para plataformas digitais  
+
+---
+
+## 💼 Experiência Complementar
+Mais de **20 anos em TI**, com domínio em infraestrutura, redes, servidores, hardware, CFTV e ambientes corporativos.  
+
+---
+
+## 📂 Portfólio
+🔗 [GitHub – +300 projetos completos](https://github.com/juliocamposmachado)
+
+---
+
+## 📍 Disponibilidade
+- Regime híbrido, remoto ou presencial  
+- Projetos longos ou pontuais
+
+---
+---
+---
+
+# 👨‍💻 Julio Cesar Campos Machado
+
+**Desenvolvedor Python | IA | Automação | Bots**  
+📍 São Paulo – SP  
+📧 juliocamposmachado@gmail.com  
+📱 (11) 99294‑6628 | (11) 97060‑3441  
+🔗 [GitHub](https://github.com/juliocamposmachado)
+
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/fb7e7a50-7ec8-489c-94a6-9a42a04fcdfc" />
+
+## 🎯 Objetivo Profissional
+Atuar como **Desenvolvedor Python / IA / Automação / Bots**, criando soluções inteligentes, sistemas web completos e agentes de IA.
+
+---
+
+## 📝 Resumo Profissional
+- Desenvolvedor **autodidata** com ampla experiência prática.  
+- Portfólio público com **+300 projetos no GitHub**.  
+- Foco em **Python**, integração com IA, automações fiscais, chatbots, visão computacional e aplicações web complexas.  
+
+---
+
+## 🛠️ Competências Técnicas
+- **APIs REST** com FastAPI / Flask  
+- **RPA e automações** (extração de dados fiscais, tributários e corporativos)  
+- **Bots multiplataforma** (WhatsApp, Discord, Telegram, marketing)  
+- **IA e modelos generativos** (OpenAI API, Azure Speech, agentes inteligentes)  
+- **Visão computacional e OCR**  
+- Integração com **MySQL e PostgreSQL**  
+- Desenvolvimento de **módulos fiscais (NFe)**  
+
+---
+
+## 💻 Linguagens e Ferramentas
+- **Python (principal):** FastAPI, Flask, scraping, bots, visão computacional  
+- **JavaScript / Node.js:** APIs, integrações, sistemas web  
+- **Web:** HTML, CSS, JavaScript  
+- **IA:** OpenAI, agentes inteligentes, análise de dados  
+
+---
+
+## 🚀 Projetos de Destaque
+- Robôs de extração de documentos e automações empresariais  
+- Integração de dados fiscais em sistemas tributários  
+- Sistemas web completos (backend Python + frontend integrado)  
+- Chatbots e agentes de IA para atendimento avançado  
+- Bots automáticos para Discord, WhatsApp e vendas  
+- Visão computacional e análise inteligente de documentos  
+- Módulo fiscal NFe integrado a React/Node  
+- App Android com IA para marketing  
+- Automação de operações internas corporativas  
+
+---
+
+## 📂 Portfólio
+🔗 [Repositórios públicos (+300 projetos)](https://github.com/juliocamposmachado)
+
+---
+
+## 📡 Experiência Complementar
+- Histórico em TI: infraestrutura, servidores, redes, gestão de data center e cabeamento estruturado.  
+- Disponibilidade para trabalho **remoto, híbrido ou presencial**.  
+
+---
+---
+---
+
 # 📢 A Like Look Solutions anuncia novas oportunidades para profissionais de excelência!
 Acesse todas as vagas: **https://impulser.me/45ea6418**
 
@@ -6,7 +149,7 @@ Essas posições são direcionadas a profissionais que buscam **desafios reais**
 
 Cada vaga abaixo representa não apenas uma função, mas uma possibilidade concreta de desenvolvimento profissional em equipes que valorizam competência técnica, responsabilidade e visão de futuro.
 
----
+<img width="746" height="497" alt="image" src="https://github.com/user-attachments/assets/ca5a2c0c-a973-4bc0-aed6-ad030e48695b" />
 
 ## 🔍 Vagas Disponíveis
 
