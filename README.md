@@ -1,8 +1,15 @@
 # 👨‍💻 **Desenvolvedor Full Stack / Web / Mobile**  
-<img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/944118dc-4dab-4ed5-bc40-8e8fb291ea04" />
+<p align="center">
+  <img src="gif.gif" alt="Demo" width="100%" height="100%"/>
+</p>
+
+
 
 ## 🎯 Objetivo Profissional
 Atuar como **Desenvolvedor Full Stack / Web / Mobile**, entregando soluções completas de alta performance, desde a concepção até a implementação final.
+
+
+
 ---
 
 ## 🧑‍💻 Resumo Profissional
